@@ -1,0 +1,38 @@
+{
+  "infopersonal" : {
+    "datos": {
+      "apellidos" : "Durand Buenamarca",
+      "nombres"   : "Adriana Arlet",
+      "edad"      : 18,
+      "telefono"  : "982253594"
+    },
+    "mifamila": {
+      "mama"      : "Sandra",
+      "papa"      : "Lucio",
+      "hermanos"  : ["Priscila", "Daniel", "Josue"] 
+    }
+  },
+  "formacion": {
+    "primaria"    :   ["IEP YESHUA"],
+    "secundaria"  : ["IEP NUESTRA SEÑORA DEL CARMEN"],
+    "superior"    :   ["SENATI"]
+  },
+  "skills":{
+    "deportivas"  : {
+      "futbol"    : ["Equipo A", "Equipo B", "Equipo C"],
+      "karate"    : ["Cinta verde", "Cinta marron", "Cinta negra"]
+    },
+    "sociales"    : {
+      "intrapersonales" : ["autocontrol", "autoestima", "resilencia"],
+      "interpersonales" : ["iderazgo","trabajo en equipo"]
+    },
+    "profesional" : {
+    "programador" : {
+      "lenguajes" : ["PHP", "C++", "Python", "JS", "CSS", "SQL"],
+      "basedatos" : ["MySQL", "MS SQL Server", "Oracle DB", "SQLite"],
+      "devmovil"  : ["ReacNative", "Kotlin", "Java", "Xamarin"]
+    },
+    "docente"     : ["Institución 1", "Institución 2", "SENATI"]
+    }
+  }
+}
