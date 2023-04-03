@@ -1,4 +1,5 @@
 <?php
+// Clase = Plantilla => creamos objetos | Compone => Atributos, métodos(Verbo)
 class Curso{
 
   // Atributo:contenerdor que contiene los datos de la clase
